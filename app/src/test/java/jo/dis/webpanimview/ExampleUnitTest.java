@@ -1,4 +1,4 @@
-package jo.dis.webpview;
+package jo.dis.webpanimview;
 
 import org.junit.Test;
 

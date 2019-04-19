@@ -1,4 +1,4 @@
-package jo.dis.webpview;
+package jo.dis.webpanimview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
